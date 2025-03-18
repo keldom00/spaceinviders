@@ -1,0 +1,13 @@
+I did this just for fun.
+This version includes:
+- A player-controlled spaceship (using arrow keys).
+- Enemy invaders that move and descend.
+- A shooting mechanism.
+- Collision detection to destroy enemies.
+Make sure you have pygame installed
+Ensure you have images for:
+  background.png
+  ufo.png (icon)
+  player.png
+  enemy.png
+  bullet.png
